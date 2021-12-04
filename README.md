@@ -25,8 +25,6 @@ and coding of course :computer:
 
 <img align="left" alt="Sql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="SqLite" width="80" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
-
 <br/>
 <br/>
 <br/>
