@@ -39,6 +39,3 @@ Coming soon... :smile:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/morgunovvb/count.svg" />
 </p>
-<div align="center">
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=morgunovvb)](https://github.com/morgunovvb/github-readme-stats)
-</div>
